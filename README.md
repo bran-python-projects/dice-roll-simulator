@@ -6,3 +6,4 @@ This project tests on the following concept of python:
 2. print()
 3. int
 4. input()
+5. while loops
